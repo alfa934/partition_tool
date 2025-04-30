@@ -1,0 +1,482 @@
+=====================================================================================
+2020-07-19 10:30:18:239 => [                                                    main.cpp, 00061] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2020-07-19 10:30:18:239 => [                                                    main.cpp, 00062] => System is server:No
+2020-07-19 10:30:18:239 => [                                                    main.cpp, 00063] => Software is 64 bit:Yes
+2020-07-19 10:30:18:239 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2020-07-19 10:30:18:278 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2020-07-19 10:30:18:883 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC WD1600AAJS-75B4A0 SATA, CHS:19452,255,63, total sectors: 312500000, bytes per sector = 512
+2020-07-19 10:30:19:037 => [                                          kvolumemanager.cpp, 00227] => Disk1, ST3160813AS SATA, CHS:19457,255,63, total sectors: 312581808, bytes per sector = 512
+2020-07-19 10:30:19:333 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2020-07-19 10:30:19:421 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2020-07-19 10:30:19:421 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+=====================================================================================
+2020-07-19 10:38:01:829 => [                                                    main.cpp, 00061] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2020-07-19 10:38:01:829 => [                                                    main.cpp, 00062] => System is server:No
+2020-07-19 10:38:01:829 => [                                                    main.cpp, 00063] => Software is 64 bit:Yes
+2020-07-19 10:38:01:829 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2020-07-19 10:38:01:866 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2020-07-19 10:38:02:461 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC WD1600AAJS-75B4A0 SATA, CHS:19452,255,63, total sectors: 312500000, bytes per sector = 512
+2020-07-19 10:38:02:626 => [                                          kvolumemanager.cpp, 00227] => Disk1, ST3160813AS SATA, CHS:19457,255,63, total sectors: 312581808, bytes per sector = 512
+2020-07-19 10:38:02:904 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2020-07-19 10:38:02:954 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2020-07-19 10:38:02:954 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+=====================================================================================
+2020-07-19 11:12:31:061 => [                                                    main.cpp, 00061] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2020-07-19 11:12:31:061 => [                                                    main.cpp, 00062] => System is server:No
+2020-07-19 11:12:31:061 => [                                                    main.cpp, 00063] => Software is 64 bit:Yes
+2020-07-19 11:12:31:061 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2020-07-19 11:12:31:098 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2020-07-19 11:12:31:660 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC WD1600AAJS-75B4A0 SATA, CHS:19452,255,63, total sectors: 312500000, bytes per sector = 512
+2020-07-19 11:12:31:800 => [                                          kvolumemanager.cpp, 00227] => Disk1, ST3160813AS SATA, CHS:19457,255,63, total sectors: 312581808, bytes per sector = 512
+2020-07-19 11:12:32:079 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2020-07-19 11:12:32:138 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2020-07-19 11:12:32:138 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+=====================================================================================
+2020-07-19 12:50:07:283 => [                                                    main.cpp, 00061] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2020-07-19 12:50:07:283 => [                                                    main.cpp, 00062] => System is server:Yes
+2020-07-19 12:50:07:283 => [                                                    main.cpp, 00063] => Software is 64 bit:Yes
+2020-07-19 12:50:07:283 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2020-07-19 12:50:07:303 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2020-07-19 12:50:07:304 => [                                                 idriver.cpp, 00636] => Failed to copy file :.
+2020-07-19 12:50:08:024 => [                                          kvolumemanager.cpp, 00227] => Disk0, SAMSUNG MZQLB1T9HAJR-00007, CHS:233473,255,63, total sectors: 3750748848, bytes per sector = 512
+2020-07-19 12:50:08:136 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2020-07-19 12:50:08:139 => [                                          kvolumemanager.cpp, 00227] => Disk1, SAMSUNG MZQLW1T9HMJP-00003, CHS:233473,255,63, total sectors: 3750748848, bytes per sector = 512
+2020-07-19 12:50:08:273 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2020-07-19 12:50:08:279 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2020-07-19 12:50:08:279 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+2020-07-19 12:50:14:022 => [                                          kvolumemanager.cpp, 00227] => Disk0, SAMSUNG MZQLB1T9HAJR-00007, CHS:233473,255,63, total sectors: 3750748848, bytes per sector = 512
+2020-07-19 12:50:14:119 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2020-07-19 12:50:14:122 => [                                          kvolumemanager.cpp, 00227] => Disk1, SAMSUNG MZQLW1T9HMJP-00003, CHS:233473,255,63, total sectors: 3750748848, bytes per sector = 512
+2020-07-19 12:50:14:234 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2020-07-19 12:50:14:241 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2020-07-19 12:50:14:241 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+=====================================================================================
+2020-12-30 05:56:13:102 => [                                                    main.cpp, 00124] => OS MajorVer:6 MiniorVer:1 ServicePack:1
+2020-12-30 05:56:13:102 => [                                                    main.cpp, 00125] => System is server:No
+2020-12-30 05:56:13:102 => [                                                    main.cpp, 00126] => Software is 64 bit:Yes
+2020-12-30 05:56:13:102 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2020-12-30 05:56:13:122 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2020-12-30 05:56:13:972 => [                                          kvolumemanager.cpp, 00227] => Disk0, SAMSUNG MZ7PD128HAFV-000 SATA, CHS:15566,255,63, total sectors: 250069680, bytes per sector = 512
+2020-12-30 05:56:14:112 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2020-12-30 05:56:14:622 => [                                          kvolumemanager.cpp, 00227] => Disk1, WDC WD20EZRX-00D8PB0 SATA, CHS:243201,255,63, total sectors: 3907029168, bytes per sector = 512
+2020-12-30 05:56:15:792 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2020-12-30 05:56:15:792 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+=====================================================================================
+2020-12-30 05:56:48:375 => [                                                    main.cpp, 00124] => OS MajorVer:6 MiniorVer:1 ServicePack:1
+2020-12-30 05:56:48:375 => [                                                    main.cpp, 00125] => System is server:No
+2020-12-30 05:56:48:375 => [                                                    main.cpp, 00126] => Software is 64 bit:Yes
+2020-12-30 05:56:48:375 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2020-12-30 05:56:48:385 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2020-12-30 05:56:49:155 => [                                          kvolumemanager.cpp, 00227] => Disk0, SAMSUNG MZ7PD128HAFV-000 SATA, CHS:15566,255,63, total sectors: 250069680, bytes per sector = 512
+2020-12-30 05:56:49:245 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2020-12-30 05:56:49:245 => [                                          kvolumemanager.cpp, 00227] => Disk1, WDC WD20EZRX-00D8PB0 SATA, CHS:243201,255,63, total sectors: 3907029168, bytes per sector = 512
+2020-12-30 05:56:50:495 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2020-12-30 05:56:50:495 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+=====================================================================================
+2023-03-29 06:05:11:058 => [                                                    main.cpp, 00124] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2023-03-29 06:05:11:058 => [                                                    main.cpp, 00125] => System is server:No
+2023-03-29 06:05:11:058 => [                                                    main.cpp, 00126] => Software is 64 bit:Yes
+2023-03-29 06:05:11:058 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-03-29 06:05:11:129 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-03-29 06:05:14:380 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-29 06:05:14:458 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-29 06:05:14:492 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-03-29 06:05:41:128 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-29 06:05:41:215 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-29 06:05:41:234 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-03-29 06:06:06:325 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:3 NewStartingLba:567296 NewPartitionSize:396060672 SafeMode:1
+2023-03-29 06:06:07:102 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2023-03-29 06:06:07:110 => [                                                 kvolume.cpp, 00495] => Failed to lock volume.
+2023-03-29 06:06:07:119 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:3 NewStartingLba:567296 NewPartitionSize:396060672 SafeMode:1 ]
+=====================================================================================
+2023-03-29 06:34:54:142 => [                                                    main.cpp, 00124] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2023-03-29 06:34:54:142 => [                                                    main.cpp, 00125] => System is server:No
+2023-03-29 06:34:54:142 => [                                                    main.cpp, 00126] => Software is 64 bit:Yes
+2023-03-29 06:34:54:142 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-03-29 06:34:54:142 => [                                                 idriver.cpp, 00636] => Failed to copy file :.
+2023-03-29 06:34:54:173 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-03-29 06:34:55:022 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-29 06:34:55:069 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-29 06:34:55:085 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-03-29 06:35:35:499 => [                                  kbatchcommandexecutive.cpp, 01415] => DeletePartition DiskIndex:0 Partition:4
+2023-03-29 06:35:35:540 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2023-03-29 06:35:35:561 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2023-03-29 06:35:35:562 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2023-03-29 06:35:35:563 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2023-03-29 06:35:35:644 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-29 06:35:35:687 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-29 06:35:35:705 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-03-29 06:38:19:702 => [                                  kbatchcommandexecutive.cpp, 01415] => WipeDisk DiskIndex:0 PartitionIndex:0 StartingLba:396627968 SectorsCount:102406081 WipingMethod:0
+2023-03-29 06:44:01:837 => [                                  kbatchcommandexecutive.cpp, 01415] => CreatePartition DiskIndex:0 StartingOffset:396627968 PartitionLength:102406144 PartTypeId:7 FsType:7 ClusterSize:8 Label:"" Letter:68 Active:0 Primary:1 BootVolume:0 SystemVolume:0 GptPartitionType:0
+2023-03-29 06:44:02:974 => [                                  kbatchcommandexecutive.cpp, 01415] => DeletePartition DiskIndex:0 Partition:4
+2023-03-29 06:44:03:277 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2023-03-29 06:44:03:343 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2023-03-29 06:44:03:343 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2023-03-29 06:44:03:363 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2023-03-29 06:44:03:525 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-29 06:44:03:601 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-29 06:44:03:618 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-03-29 06:45:46:901 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:3 NewStartingLba:567296 NewPartitionSize:498466816 SafeMode:1
+2023-03-29 06:45:48:450 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-29 06:45:48:496 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-29 06:45:48:505 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-03-29 06:46:34:420 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:3 NewStartingLba:567296 NewPartitionSize:335544320 SafeMode:1
+2023-03-29 06:46:34:524 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2023-03-29 06:46:34:534 => [                                                 kvolume.cpp, 00495] => Failed to lock volume.
+2023-03-29 06:46:34:546 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:3 NewStartingLba:567296 NewPartitionSize:335544320 SafeMode:1 ]
+=====================================================================================
+2023-03-29 14:39:15:144 => [                                                    main.cpp, 00124] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2023-03-29 14:39:15:144 => [                                                    main.cpp, 00125] => System is server:No
+2023-03-29 14:39:15:144 => [                                                    main.cpp, 00126] => Software is 64 bit:Yes
+2023-03-29 14:39:15:144 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-03-29 14:39:15:177 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-03-29 14:39:16:057 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-29 14:39:16:121 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-29 14:39:16:160 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+=====================================================================================
+2023-03-29 07:43:42:377 => [                                                    main.cpp, 00124] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2023-03-29 07:43:42:377 => [                                                    main.cpp, 00125] => System is server:No
+2023-03-29 07:43:42:377 => [                                                    main.cpp, 00126] => Software is 64 bit:Yes
+2023-03-29 07:43:42:377 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-03-29 07:43:42:440 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-03-29 07:43:43:270 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-29 07:43:43:313 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-29 07:43:43:327 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-03-29 07:44:43:981 => [                                  kbatchcommandexecutive.cpp, 01415] => DeletePartition DiskIndex:0 Partition:4
+2023-03-29 07:44:43:983 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2023-03-29 07:44:43:996 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2023-03-29 07:44:43:996 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2023-03-29 07:44:43:997 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2023-03-29 07:44:44:111 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-29 07:44:44:152 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-29 07:44:44:162 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+=====================================================================================
+2023-03-29 07:53:26:128 => [                                                    main.cpp, 00124] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2023-03-29 07:53:26:128 => [                                                    main.cpp, 00125] => System is server:No
+2023-03-29 07:53:26:128 => [                                                    main.cpp, 00126] => Software is 64 bit:Yes
+2023-03-29 07:53:26:128 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-03-29 07:53:26:159 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-03-29 07:53:27:009 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-29 07:53:27:040 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-29 07:53:27:056 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-03-29 07:56:11:293 => [                                  kbatchcommandexecutive.cpp, 01415] => CreatePartition DiskIndex:0 StartingOffset:336111616 PartitionLength:87996416 PartTypeId:131 FsType:52 ClusterSize:4 Label:"" Letter:0 Active:0 Primary:1 BootVolume:0 SystemVolume:0 GptPartitionType:0
+2023-03-29 07:56:14:467 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-29 07:56:14:505 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-29 07:56:14:514 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-03-29 07:57:01:151 => [                                  kbatchcommandexecutive.cpp, 01415] => DeletePartition DiskIndex:0 Partition:4
+2023-03-29 07:57:01:154 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2023-03-29 07:57:01:158 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2023-03-29 07:57:01:158 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2023-03-29 07:57:01:161 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2023-03-29 07:57:01:236 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-29 07:57:01:278 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-29 07:57:01:292 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-03-29 07:58:40:605 => [                                  kbatchcommandexecutive.cpp, 01415] => CreatePartition DiskIndex:0 StartingOffset:336111616 PartitionLength:32505856 PartTypeId:7 FsType:7 ClusterSize:8 Label:"" Letter:68 Active:0 Primary:1 BootVolume:0 SystemVolume:0 GptPartitionType:0
+2023-03-29 07:58:41:341 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-29 07:58:41:403 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-29 07:58:41:416 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-03-29 07:59:11:285 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:4 NewStartingLba:391604224 NewPartitionSize:32503808 SafeMode:1
+2023-03-29 07:59:11:287 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2023-03-29 07:59:11:311 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2023-03-29 07:59:11:311 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2023-03-29 07:59:11:313 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2023-03-29 07:59:12:251 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-29 07:59:12:293 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-29 07:59:12:304 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-03-29 07:59:25:545 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:3 NewStartingLba:567296 NewPartitionSize:391036928 SafeMode:1
+2023-03-29 07:59:26:693 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-29 07:59:26:737 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-29 07:59:26:744 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+=====================================================================================
+2023-03-30 21:33:06:283 => [                                                    main.cpp, 00124] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2023-03-30 21:33:06:283 => [                                                    main.cpp, 00125] => System is server:No
+2023-03-30 21:33:06:283 => [                                                    main.cpp, 00126] => Software is 64 bit:Yes
+2023-03-30 21:33:06:283 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-03-30 21:33:06:321 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-03-30 21:33:07:315 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-30 21:33:07:359 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-30 21:33:07:394 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-03-30 21:33:28:492 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:4 NewStartingLba:391604224 NewPartitionSize:74926080 SafeMode:1
+2023-03-30 21:33:28:497 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2023-03-30 21:33:28:498 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2023-03-30 21:33:28:498 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2023-03-30 21:33:28:499 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2023-03-30 21:35:16:887 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2023-03-30 21:35:16:934 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2023-03-30 21:35:16:934 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+=====================================================================================
+2024-01-24 05:16:47:414 => [                                                    main.cpp, 00124] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2024-01-24 05:16:47:414 => [                                                    main.cpp, 00125] => System is server:No
+2024-01-24 05:16:47:414 => [                                                    main.cpp, 00126] => Software is 64 bit:Yes
+2024-01-24 05:16:47:414 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2024-01-24 05:16:47:457 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2024-01-24 05:16:48:384 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-01-24 05:16:48:438 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-01-24 05:16:48:452 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2024-01-24 05:18:16:737 => [                                  kbatchcommandexecutive.cpp, 01415] => FormatPartition DiskIndex:0 PartitionIndex:4 FsType:7 ClusterSize:8 Label:""
+2024-01-24 05:18:16:737 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-01-24 05:18:16:747 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-01-24 05:18:16:747 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-01-24 05:18:16:747 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-01-24 05:18:47:596 => [                                  kbatchcommandexecutive.cpp, 01415] => MergePartition DiskIndex:0 LeftPartitionIndex:3 ExtendLeftPartition:1 NewFolderName:"merged_partition_content"
+2024-01-24 05:18:47:638 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-01-24 05:18:47:648 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-01-24 05:18:47:648 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-01-24 05:18:47:648 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-01-24 05:18:47:864 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-01-24 05:18:47:864 => [                                                 kvolume.cpp, 00495] => Failed to lock volume.
+2024-01-24 05:18:47:864 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ MergePartition DiskIndex:0 LeftPartitionIndex:3 ExtendLeftPartition:1 NewFolderName:"merged_partition_content" ]
+=====================================================================================
+2024-04-03 15:24:27:792 => [                                                    main.cpp, 00124] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2024-04-03 15:24:27:792 => [                                                    main.cpp, 00125] => System is server:No
+2024-04-03 15:24:27:792 => [                                                    main.cpp, 00126] => Software is 64 bit:Yes
+2024-04-03 15:24:27:792 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2024-04-03 15:24:27:891 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2024-04-03 15:24:29:048 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-04-03 15:24:29:103 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-04-03 15:24:29:118 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2024-04-03 15:24:59:183 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-04-03 15:24:59:238 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-04-03 15:24:59:244 => [                                          kvolumemanager.cpp, 00227] => Disk1, Generic STORAGE DEVICE USB, CHS:3880,255,63, total sectors: 62333952, bytes per sector = 512
+2024-04-03 15:25:01:333 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2024-04-03 15:25:01:342 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2024-04-03 15:25:01:342 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+2024-04-03 15:27:21:791 => [                                  kbatchcommandexecutive.cpp, 01415] => WipeDisk DiskIndex:1 PartitionIndex:0 StartingLba:17221696 SectorsCount:45112256 WipingMethod:0
+2024-04-03 16:08:30:291 => [                                  kbatchcommandexecutive.cpp, 01415] => CreatePartition DiskIndex:1 StartingOffset:17223680 PartitionLength:45109248 PartTypeId:7 FsType:7 ClusterSize:8 Label:"" Letter:70 Active:0 Primary:1 BootVolume:0 SystemVolume:0 GptPartitionType:0
+2024-04-03 16:08:38:856 => [                                  kbatchcommandexecutive.cpp, 01415] => ChangePartitionID DiskIndex:1 PartitionIndex:2 NewPartitionID:7 NewTypeId=0~0~0~0
+2024-04-03 16:08:38:858 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-04-03 16:08:38:906 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-04-03 16:08:38:906 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-04-03 16:08:38:921 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-04-03 16:08:39:893 => [                                  kbatchcommandexecutive.cpp, 01415] => FormatPartition DiskIndex:1 PartitionIndex:2 FsType:7 ClusterSize:8 Label:""
+2024-04-03 16:08:40:301 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-04-03 16:08:40:320 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-04-03 16:08:40:320 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-04-03 16:08:40:325 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-04-03 16:08:44:999 => [                                  kbatchcommandexecutive.cpp, 01415] => MergePartition DiskIndex:1 LeftPartitionIndex:2 ExtendLeftPartition:1 NewFolderName:"merged_partition_content"
+2024-04-03 16:08:45:055 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-04-03 16:08:45:101 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-04-03 16:08:45:101 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-04-03 16:08:45:102 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-04-03 16:08:45:615 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-04-03 16:08:45:664 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-04-03 16:08:45:664 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-04-03 16:08:45:665 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-04-03 16:08:50:960 => [                                    filesystem\ntfsmerge.cpp, 00224] => Return = 0
+2024-04-03 16:08:51:798 => [                                  kbatchcommandexecutive.cpp, 01415] => ChangePartitionID DiskIndex:1 PartitionIndex:1 NewPartitionID:7 NewTypeId=0~0~0~0
+2024-04-03 16:08:51:798 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-04-03 16:08:51:808 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-04-03 16:08:51:808 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-04-03 16:08:51:809 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-04-03 16:08:52:335 => [                                  kbatchcommandexecutive.cpp, 01415] => FormatPartition DiskIndex:1 PartitionIndex:1 FsType:7 ClusterSize:2 Label:"system-boot"
+2024-04-03 16:08:52:556 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-04-03 16:08:52:625 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-04-03 16:08:52:625 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-04-03 16:08:52:635 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-04-03 16:08:53:542 => [                                  kbatchcommandexecutive.cpp, 01415] => ChangeClusterSize DiskIndex:1 PartitionIndex:2 ClusterSize:2
+2024-04-03 16:08:53:560 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-04-03 16:08:53:638 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-04-03 16:08:53:638 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-04-03 16:08:53:642 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-04-03 16:08:59:436 => [                                  kbatchcommandexecutive.cpp, 01415] => MergePartition DiskIndex:1 LeftPartitionIndex:1 ExtendLeftPartition:1 NewFolderName:"merged_partition_content"
+2024-04-03 16:08:59:698 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-04-03 16:08:59:739 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-04-03 16:08:59:739 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-04-03 16:08:59:739 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-04-03 16:08:59:765 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-04-03 16:08:59:818 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-04-03 16:08:59:818 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-04-03 16:08:59:819 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-04-03 16:09:02:076 => [                                    filesystem\ntfsmerge.cpp, 00224] => Return = 0
+2024-04-03 16:09:03:114 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-04-03 16:09:03:164 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-04-03 16:09:03:171 => [                                          kvolumemanager.cpp, 00227] => Disk1, Generic STORAGE DEVICE USB, CHS:3880,255,63, total sectors: 62333952, bytes per sector = 512
+2024-04-03 16:09:03:575 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2024-04-03 16:09:03:587 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2024-04-03 16:09:03:587 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+2024-04-03 16:09:24:052 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-04-03 16:09:24:133 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-04-03 16:09:24:164 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2024-04-03 16:09:29:901 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-04-03 16:09:29:960 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-04-03 16:09:29:966 => [                                          kvolumemanager.cpp, 00227] => Disk1, Generic STORAGE DEVICE USB, CHS:3880,255,63, total sectors: 62333952, bytes per sector = 512
+2024-04-03 16:09:30:369 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2024-04-03 16:09:30:377 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2024-04-03 16:09:30:377 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+2024-04-03 16:10:13:913 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-04-03 16:10:14:139 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-04-03 16:10:14:160 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2024-04-03 16:10:16:112 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-04-03 16:10:16:177 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-04-03 16:10:16:188 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2024-04-03 16:10:17:535 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-04-03 16:10:17:865 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-04-03 16:10:17:880 => [                                          kvolumemanager.cpp, 00227] => Disk1, Generic STORAGE DEVICE USB, CHS:3880,255,63, total sectors: 62333952, bytes per sector = 512
+2024-04-03 16:10:18:686 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2024-04-03 16:10:18:707 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2024-04-03 16:10:18:707 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+2024-04-03 16:10:43:030 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-04-03 16:10:43:103 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-04-03 16:10:43:121 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+=====================================================================================
+2024-08-06 08:47:48:622 => [                                                    main.cpp, 00124] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2024-08-06 08:47:48:622 => [                                                    main.cpp, 00125] => System is server:No
+2024-08-06 08:47:48:622 => [                                                    main.cpp, 00126] => Software is 64 bit:Yes
+2024-08-06 08:47:48:622 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2024-08-06 08:47:48:662 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2024-08-06 08:47:49:469 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-08-06 08:47:49:532 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-08-06 08:47:49:552 => [                                          kvolumemanager.cpp, 00227] => Disk1, WDC WD7500BPVX-00FA7T0 RAID, CHS:91201,255,63, total sectors: 1465149168, bytes per sector = 512
+2024-08-06 08:47:50:211 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2024-08-06 08:47:50:241 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2024-08-06 08:47:50:241 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+2024-08-06 08:48:54:306 => [                                  kbatchcommandexecutive.cpp, 01415] => DeletePartition DiskIndex:1 Partition:1
+2024-08-06 08:48:54:468 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-08-06 08:48:55:094 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-08-06 08:48:55:094 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-08-06 08:48:55:095 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-08-06 08:48:55:286 => [                                  kbatchcommandexecutive.cpp, 01415] => DeletePartition DiskIndex:1 Partition:1
+2024-08-06 08:49:03:529 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-08-06 08:49:09:318 => [                                                 kvolume.cpp, 00495] => Failed to lock volume.
+2024-08-06 08:49:09:318 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-08-06 08:49:15:092 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-08-06 08:49:15:190 => [                                  kbatchcommandexecutive.cpp, 01415] => DeletePartition DiskIndex:1 Partition:1
+2024-08-06 08:49:15:275 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-08-06 08:49:15:278 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-08-06 08:49:15:278 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-08-06 08:49:15:278 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-08-06 08:49:15:304 => [                                  kbatchcommandexecutive.cpp, 01415] => DeletePartition DiskIndex:1 Partition:1
+2024-08-06 08:49:15:384 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-08-06 08:49:15:384 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-08-06 08:49:15:384 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-08-06 08:49:15:384 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-08-06 08:49:15:421 => [                                  kbatchcommandexecutive.cpp, 01415] => DeletePartition DiskIndex:1 Partition:1
+2024-08-06 08:49:15:517 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-08-06 08:49:15:518 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-08-06 08:49:15:518 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-08-06 08:49:15:518 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-08-06 08:49:15:529 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-08-06 08:49:15:575 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-08-06 08:49:15:575 => [                                          kvolumemanager.cpp, 00227] => Disk1, WDC WD7500BPVX-00FA7T0 RAID, CHS:91201,255,63, total sectors: 1465149168, bytes per sector = 512
+2024-08-06 08:49:15:583 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2024-08-06 08:49:15:583 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+2024-08-06 08:52:45:325 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-08-06 08:52:45:368 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-08-06 08:52:45:404 => [                                          kvolumemanager.cpp, 00227] => Disk1, WDC WD7500BPVX-00FA7T0 RAID, CHS:91201,255,63, total sectors: 1465149168, bytes per sector = 512
+2024-08-06 08:52:45:700 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2024-08-06 08:52:45:702 => [                                          kvolumemanager.cpp, 00227] => Disk2, SanDisk Cruzer Blade USB, CHS:1870,255,63, total sectors: 30044160, bytes per sector = 512
+2024-08-06 08:52:45:884 => [                                          kvolumemanager.cpp, 00248] => Disk2 set alignmentFactor =AlignToMB
+2024-08-06 08:52:45:900 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2024-08-06 08:52:45:900 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+2024-08-06 08:52:45:900 => [                                             dynamicdisk.cpp, 00215] => Disk2 is not a dynamic disk.
+=====================================================================================
+2024-11-19 13:27:42:315 => [                                                    main.cpp, 00124] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2024-11-19 13:27:42:315 => [                                                    main.cpp, 00125] => System is server:No
+2024-11-19 13:27:42:315 => [                                                    main.cpp, 00126] => Software is 64 bit:Yes
+2024-11-19 13:27:42:315 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2024-11-19 13:27:42:376 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2024-11-19 13:27:43:273 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-11-19 13:27:43:316 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-11-19 13:27:43:316 => [                                          kvolumemanager.cpp, 00227] => Disk1, Kingston SA400S37/256G RAID, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-11-19 13:27:43:320 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2024-11-19 13:27:43:329 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2024-11-19 13:27:43:329 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+2024-11-19 13:29:08:490 => [                                  kbatchcommandexecutive.cpp, 01415] => DeletePartition DiskIndex:1 Partition:2
+2024-11-19 13:29:08:497 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-11-19 13:29:08:501 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-11-19 13:29:08:501 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-11-19 13:29:08:503 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-11-19 13:29:08:568 => [                                  kbatchcommandexecutive.cpp, 01415] => DeletePartition DiskIndex:1 Partition:1
+2024-11-19 13:29:08:574 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2024-11-19 13:29:08:575 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2024-11-19 13:29:08:576 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2024-11-19 13:29:08:580 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2024-11-19 13:29:08:588 => [                                  kbatchcommandexecutive.cpp, 01415] => CreatePartition DiskIndex:1 StartingOffset:2048 PartitionLength:500115456 PartTypeId:7 FsType:7 ClusterSize:8 Label:"UBUNTU" Letter:68 Active:0 Primary:1 BootVolume:0 SystemVolume:0 GptPartitionType:0
+2024-11-19 13:29:09:396 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-11-19 13:29:09:445 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-11-19 13:29:09:446 => [                                          kvolumemanager.cpp, 00227] => Disk1, Kingston SA400S37/256G RAID, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2024-11-19 13:29:09:519 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2024-11-19 13:29:09:527 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2024-11-19 13:29:09:527 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+=====================================================================================
+2025-03-25 00:35:24:683 => [                                                    main.cpp, 00124] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2025-03-25 00:35:24:683 => [                                                    main.cpp, 00125] => System is server:No
+2025-03-25 00:35:24:683 => [                                                    main.cpp, 00126] => Software is 64 bit:Yes
+2025-03-25 00:35:24:683 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2025-03-25 00:35:24:744 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2025-03-25 00:35:25:899 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2025-03-25 00:35:25:969 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2025-03-25 00:35:25:970 => [                                          kvolumemanager.cpp, 00227] => Disk1, Kingston SA400S37/256G RAID, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2025-03-25 00:35:25:978 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2025-03-25 00:35:25:991 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2025-03-25 00:35:25:991 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+2025-03-25 00:35:49:810 => [                                  kbatchcommandexecutive.cpp, 01415] => DeletePartition DiskIndex:1 Partition:2
+2025-03-25 00:35:49:814 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2025-03-25 00:35:49:816 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2025-03-25 00:35:49:816 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2025-03-25 00:35:49:817 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2025-03-25 00:35:49:854 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2025-03-25 00:35:49:914 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2025-03-25 00:35:49:914 => [                                          kvolumemanager.cpp, 00227] => Disk1, Kingston SA400S37/256G RAID, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2025-03-25 00:35:49:914 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2025-03-25 00:35:49:931 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2025-03-25 00:35:49:931 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+2025-03-25 00:36:17:661 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2025-03-25 00:36:17:717 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2025-03-25 00:36:17:717 => [                                          kvolumemanager.cpp, 00227] => Disk1, Kingston SA400S37/256G RAID, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2025-03-25 00:36:17:727 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2025-03-25 00:36:17:730 => [                                          kvolumemanager.cpp, 00227] => Disk2, SanDisk Cruzer Blade USB, CHS:1870,255,63, total sectors: 30044160, bytes per sector = 512
+2025-03-25 00:36:19:559 => [                                          kvolumemanager.cpp, 00248] => Disk2 set alignmentFactor =AlignToMB
+2025-03-25 00:36:19:568 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2025-03-25 00:36:19:568 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+2025-03-25 00:36:19:568 => [                                             dynamicdisk.cpp, 00215] => Disk2 is not a dynamic disk.
+2025-03-25 00:37:01:833 => [                                  kbatchcommandexecutive.cpp, 01415] => CreatePartition DiskIndex:1 StartingOffset:976896 PartitionLength:499140608 PartTypeId:7 FsType:7 ClusterSize:8 Label:"" Letter:69 Active:0 Primary:1 BootVolume:0 SystemVolume:0 GptPartitionType:0
+2025-03-25 00:37:02:676 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2025-03-25 00:37:02:733 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2025-03-25 00:37:02:736 => [                                          kvolumemanager.cpp, 00227] => Disk1, Kingston SA400S37/256G RAID, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2025-03-25 00:37:02:809 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2025-03-25 00:37:02:812 => [                                          kvolumemanager.cpp, 00227] => Disk2, SanDisk Cruzer Blade USB, CHS:1870,255,63, total sectors: 30044160, bytes per sector = 512
+2025-03-25 00:37:04:637 => [                                          kvolumemanager.cpp, 00248] => Disk2 set alignmentFactor =AlignToMB
+2025-03-25 00:37:04:662 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2025-03-25 00:37:04:662 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+2025-03-25 00:37:04:662 => [                                             dynamicdisk.cpp, 00215] => Disk2 is not a dynamic disk.
+=====================================================================================
+2025-03-25 03:03:42:253 => [                                                    main.cpp, 00124] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2025-03-25 03:03:42:253 => [                                                    main.cpp, 00125] => System is server:No
+2025-03-25 03:03:42:253 => [                                                    main.cpp, 00126] => Software is 64 bit:Yes
+2025-03-25 03:03:42:253 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2025-03-25 03:03:42:372 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2025-03-25 03:03:44:830 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2025-03-25 03:03:44:908 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2025-03-25 03:03:44:909 => [                                          kvolumemanager.cpp, 00227] => Disk1, Kingston SA400S37/256G RAID, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2025-03-25 03:03:44:917 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2025-03-25 03:03:44:937 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2025-03-25 03:03:44:937 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+2025-03-25 10:04:48:354 => [                                  kbatchcommandexecutive.cpp, 01415] => DeletePartition DiskIndex:1 Partition:2
+2025-03-25 10:04:48:402 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2025-03-25 10:04:48:406 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2025-03-25 10:04:48:406 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2025-03-25 10:04:48:407 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2025-03-25 10:04:48:452 => [                                  kbatchcommandexecutive.cpp, 01415] => DeletePartition DiskIndex:1 Partition:1
+2025-03-25 10:04:48:458 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2025-03-25 10:04:48:516 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2025-03-25 10:04:48:516 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2025-03-25 10:04:48:521 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2025-03-25 10:04:48:576 => [                                  kbatchcommandexecutive.cpp, 01415] => CreatePartition DiskIndex:1 StartingOffset:2048 PartitionLength:500115456 PartTypeId:7 FsType:7 ClusterSize:8 Label:"" Letter:68 Active:0 Primary:1 BootVolume:0 SystemVolume:0 GptPartitionType:0
+2025-03-25 10:04:49:478 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2025-03-25 10:04:49:545 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2025-03-25 10:04:49:555 => [                                          kvolumemanager.cpp, 00227] => Disk1, Kingston SA400S37/256G RAID, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2025-03-25 10:04:49:633 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2025-03-25 10:04:49:646 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2025-03-25 10:04:49:646 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+2025-03-25 10:05:55:081 => [                                  kbatchcommandexecutive.cpp, 01415] => FormatPartition DiskIndex:1 PartitionIndex:1 FsType:52 ClusterSize:8 Label:""
+2025-03-25 10:05:55:124 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2025-03-25 10:05:55:173 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2025-03-25 10:05:55:173 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2025-03-25 10:05:55:174 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2025-03-25 10:06:35:133 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN530 SDBPNPZ-256G-1006, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2025-03-25 10:06:35:204 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2025-03-25 10:06:35:208 => [                                          kvolumemanager.cpp, 00227] => Disk1, Kingston SA400S37/256G RAID, CHS:31130,255,63, total sectors: 500118192, bytes per sector = 512
+2025-03-25 10:06:35:211 => [                                          kvolumemanager.cpp, 00248] => Disk1 set alignmentFactor =AlignToMB
+2025-03-25 10:06:35:235 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2025-03-25 10:06:35:235 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
