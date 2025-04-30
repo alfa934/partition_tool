@@ -1,0 +1,12 @@
+[03292023-07:46:50][257]Minitool Media Builder
+[03292023-07:46:50][597]Volume C:
+[03292023-07:46:50][1001]Read disk GEOMETRY, s64TotalSectors = 500103450
+[03292023-07:46:50][1014]Read disk GEOMETRY EX, s64Totalbytes = 256060514304
+[03292023-07:46:50][1036]Read disk LENGTH_INFO, s64Totalbytes = 256060514304
+[03292023-07:46:50][333]  Emulated sector size is 512 bytes.
+
+[03292023-07:46:50][334]  Physical sector size is 4096 bytes.
+
+[03292023-07:46:50][338]  The number of bytes in a cache line of the device = 0 
+
+[03292023-07:46:50][43] Partition Table Entry Type ee
